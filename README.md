@@ -9,6 +9,8 @@ There's all this noise that AI is going to take over the world and so on - well,
 I reckon what is going to happen is, many companies will believe the hype, buy the services, fire their people, then the prices will go up - and it's not going to be cheap, and it may be too late to self host depending on how regulations work out. It'll be the same story as cloud computing.
 I mean you could just deploy your own AI to do information management and everyone's helpful assistant.
 
+!(kawaiiai.jpg)
+
 Anyway just for fun and for a proof of concept, I'm going to deploy an AI agent on some hardware I got for free.
 It's a Fujitsu Mini PC - an Esprimo Q900 from 2011.
 Here are it's stats;
