@@ -46,10 +46,37 @@ Then I want to have it work as a queriable librarian so I'll give it some large 
 Obviously I want it to sleep most of the time, and I'll track its power consumption - to prove the point - AI agents do not need to cost the world and do not need to be hosted by some wizard in their tower.
 Oh yeah so I have solar on the roof so we're talking about free AI - free as in running on excess solar power in Europe.
 
-OK so it is still ridiculously slow - but allow me to randomly defend an indefensible position; kawaiiai! Write me an airport bestseller called Mindful Management - why it's better to thoughtfully email your AI assistant than to chat to a chat bot all day instead of working.
+OK so it is still ridiculously slow - but allow me to randomly defend an indefensible position; 
+kawaiiai! Write me an airport bestseller called Mindful Management - why it's better to thoughtfully email your AI assistant than to chat to a chat bot all day instead of working.
 
-'''
-In the chaos of airports
-'''
+```
+### **SYNOPSIS**  
+*In the chaos of airports, boardrooms, and digital overload, 83% of us 
+chase "instant" answers from chatbots — only to feel more stressed, less 
+connected, and worse at work. "Mindful Management" reveals why **slow AI 
+email** (a deliberate, human-centered approach) is the secret weapon for 
+clarity, focus, and real impact — far better than endless chatbot 
+back-and-forth. With airport-tested strategies, this bestseller cuts 
+through the noise to show you how to *think* before you reply, reduce 
+burnout, and build trust without tech fatigue. Because in a world of speed 
+traps, **slow is smarter**.*
+
+---
+
+### **ONE-LINE REVIEWS (AIRPORT BESTSELLER STYLE)**  
+*(Short, relatable, and punchy — perfect for airport kiosks, coffee shops, 
+or quick shares)*  
+
+1. **"Finally! After 3 chatbot replies that made me miss my flight, I 
+started slow emails. My inbox is calm. My focus is back."**  
+2. **"This book saved me from a panic attack at the airport. Slow AI 
+emails = less stress, more meaning. Seriously, try it."**  
+3. **"My manager tried chatbots for 2 weeks. Now he uses slow emails. He’s 
+calmer, and his team actually listens."**  
+4. **"Airport bestseller? Yes. Chatbot addiction? No. This book gave me 2 
+minutes of peace before my next flight."**  
+5. **"Stop drowning in AI spam. Slow emails = real connection. I’m not a 
+robot — and neither should you."**  
+```
 
 OMG this box is going to make me rich forever!
