@@ -80,3 +80,9 @@ robot — and neither should you."**
 ```
 
 OMG this box is going to make me rich forever!
+
+Now we just need a sticker, branding is important they tell me!
+
+![5](KawaiiAI.png)
+
+Sick - Kawaii Shodan.
