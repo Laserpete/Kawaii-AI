@@ -3,7 +3,7 @@ DIY AI for free!
 
 OK so look, I don't think we need a whole river of water and a mountain of copper to get an AI to do basic stuff that it would be good at, like librarian type of functions; summaries and search.
 
-SO background, I used to do some translation back in 2016 that must have been and back then machine learning, OCR, translation libraries were doing a lot of the work, I kinda saw it coming that AI was going to be doing a lot of the work, but basically that's just clerical work and what it essentially would do is work ahead of you and you would check what it had done - so it was a massive help in productivity. Prices got squeezed and anybody without a barrier to entry eg. lawyer or doctor was gonna struggle to get paid. Nowadays of course you just use DeepL unless you need a rubber stamp.
+Sooooo background, I used to do some freelance translation back in 2015 - 2016 and back then machine learning, OCR, translation libraries were doing a lot of heavy lifting. Essentially the computer would work ahead of you and you would check what it had done - so it was a massive help in productivity. Prices got squeezed and anybody without a barrier to entry eg. lawyer or doctor was gonna struggle to get paid. Nowadays of course you just use DeepL unless you need a rubber stamp. So I saw AI coming to eat my lunch back then and of course I went and did other work.
 
 There's all this noise that AI is going to take over the world and so on - well, there's a big difference between LLMs and general AI.
 I reckon what is going to happen is, many companies will believe the hype, buy the services, fire their people, then the prices will go up - and it's not going to be cheap, and it may be too late to self host depending on how regulations work out. It'll be the same story as cloud computing.
@@ -44,3 +44,12 @@ OK so what I want to do is first make an idiom generator, it's going to message 
 Then I want to have it work as a queriable librarian so I'll give it some large PDF and be able to ask questions about it. Like the PMBoK. You know, that huge PDF file you're supposed to have read and somewhat internalised? Yeah I'm going to get it to do that job for me - AI will be super good at that.
 
 Obviously I want it to sleep most of the time, and I'll track its power consumption - to prove the point - AI agents do not need to cost the world and do not need to be hosted by some wizard in their tower.
+Oh yeah so I have solar on the roof so we're talking about free AI - free as in running on excess solar power in Europe.
+
+OK so it is still ridiculously slow - but allow me to randomly defend an indefensible position; kawaiiai! Write me an airport bestseller called Mindful Management - why it's better to thoughtfully email your AI assistant than to chat to a chat bot all day instead of working.
+
+'''
+In the chaos of airports
+'''
+
+OMG this box is going to make me rich forever!
