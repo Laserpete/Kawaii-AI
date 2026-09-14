@@ -27,7 +27,11 @@ Debian NetInstall, SSH from my actual computer (It's also an Esprimo I got for f
 
 OK so there was quite a lot of bad noise at this point and as you might suspect, the core temperatures hit 100°C in very quick time.
 
-OK so Thermal paste, no problem. Is that... the cooler has blued?
+![2](kawaiiai2.jpg)
+
+OK so Thermal paste, no problem. Wait, is that? Has the cooler blued?
+
+![3](kawaiiai3.jpg)
 
 I notice at this point, that this machine is built down to a price. 
 
