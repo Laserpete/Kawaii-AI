@@ -90,12 +90,15 @@ Sick - Kawaii SHODAN.
 ## Next Steps
 
 - [ ] Ollama on boot (systemd service + preload)
-- [ ] Wake-on-LAN configuration (BIOS + ethtool)
-- [ ] Midday cron job or systemd timer
 - [ ] Suppress Qwen's `thinking` mode (`/no_think`, `num_predict` cap)
 - [ ] Build idiom reference corpus (`sayings.txt` + `shuf`)
-- [ ] RAG Librarian for ISO 9001 or similarly soul-crushing pdf no human should ever be subjected to
+- [ ] Wake-on-LAN configuration (BIOS + ethtool)
+- [ ] Midday cron job or systemd timer
 - [ ] ntfy push notifications to phone (Tailscale + local agent)
 - [ ] Recruit friends into the Kawaii-AI cult (top priority)
+
+- [ ] RAG Librarian for ISO 9001 or similarly soul-crushing pdf no human should ever be subjected to
+- [ ] Make kawaiiai queryable using web interface
+
 - [ ] Solar PV sync (trigger inference on excess generation)
 ```
