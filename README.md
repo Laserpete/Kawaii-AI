@@ -85,4 +85,4 @@ Now we just need a sticker, branding is important they tell me!
 
 ![5](KawaiiAI.png)
 
-Sick - Kawaii Shodan.
+Sick - Kawaii SHODAN.
