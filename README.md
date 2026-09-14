@@ -17,7 +17,7 @@ Here are it's stats;
   Intel i5-2520M CPU @ 2.50GHz
   8GB DDR3 12800
 
-2 cores, 2 threads, all obsolete. This is the cutest AI deployment I am currently aware of. Let's begin.
+2 cores, 4 threads, all obsolete. This is the cutest AI deployment I am currently aware of. Let's begin.
 
 The first issue is the power button has fallen off and it's a cap touch sensor so I have to reach into the case with a pencil and touch the other end of the graphite - power on!
 
@@ -86,3 +86,16 @@ Now we just need a sticker, branding is important they tell me!
 ![5](KawaiiAI.png)
 
 Sick - Kawaii SHODAN.
+```
+## Next Steps
+
+- [ ] Ollama on boot (systemd service + preload)
+- [ ] Wake-on-LAN configuration (BIOS + ethtool)
+- [ ] Midday cron job or systemd timer
+- [ ] Suppress Qwen's `thinking` mode (`/no_think`, `num_predict` cap)
+- [ ] Build idiom reference corpus (`sayings.txt` + `shuf`)
+- [ ] RAG Librarian for ISO 9001 or similarly soul-crushing pdf no human should ever be subjected to
+- [ ] ntfy push notifications to phone (Tailscale + local agent)
+- [ ] Recruit friends into the Kawaii-AI cult (top priority)
+- [ ] Solar PV sync (trigger inference on excess generation)
+```
