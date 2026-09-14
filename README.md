@@ -23,7 +23,7 @@ The first issue is the power button has fallen off and it's a cap touch sensor s
 
 POST - boot, great. Let's ditch this mobile HDD and put in this 60GB Kingston SSD that I actually found in some computer that had been out in the rain for weeks to months - still works! (I mean it's solid state right? The power was off)
 
-Debian NetInstall, SSH from my actual computer (It's also an Esprimo I got for free), ollama, qwen3:4b...
+Debian NetInstall, SSH from my actual computer (It's also an Esprimo I got for free), ssh-keyswap, ollama, qwen3:4b...
 
 OK so there was quite a lot of bad noise at this point and - as you might suspect - the core temperatures hit 100°C like instantly. 2011, Thermal paste old.
 
