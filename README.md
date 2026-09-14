@@ -35,15 +35,12 @@ OK so Thermal paste, no problem. Wait, is that? Has the cooler blued?
 
 I notice at this point, that this machine is built down to a price. 
 
+![4](Screenshot1.png)
+
+It works!! Like not actually well yet - I'm somewhat impressed though. At a minimum you can take this and use it to haggle with AI service salespeople.
+
 OK so what I want to do is first make an idiom generator, it's going to message me with some absurd idiom once a day. For morale.
 
 Then I want to have it work as a queriable librarian so I'll give it some large PDF and be able to ask questions about it. Like the PMBoK. You know, that huge PDF file you're supposed to have read and somewhat internalised? Yeah I'm going to get it to do that job for me - AI will be super good at that.
 
 Obviously I want it to sleep most of the time, and I'll track its power consumption - to prove the point - AI agents do not need to cost the world and do not need to be hosted by some wizard in their tower.
-
-OK so it works generating a pointless phrase - I mean it's not actually good or fast, it took like 30 minutes to come up with "Wenn ein Schmetterling ein Schwein trägt, dann ist es ein Schwein."
-Probably gonna do some work on that.
-
-![4](Screenshot1.png)
-
-It works!!
