@@ -25,7 +25,7 @@ POST - boot, great. Let's ditch this mobile HDD and put in this 60GB Kingston SS
 
 Debian NetInstall, SSH from my actual computer (It's also an Esprimo I got for free), ollama, qwen3:4b...
 
-OK so there was quite a lot of bad noise at this point and as you might suspect, the core temperatures hit 100°C in very quick time.
+OK so there was quite a lot of bad noise at this point and - as you might suspect - the core temperatures hit 100°C like instantly. 2011, Thermal paste old.
 
 ![2](kawaiiai2.jpg)
 
@@ -43,3 +43,7 @@ Obviously I want it to sleep most of the time, and I'll track its power consumpt
 
 OK so it works generating a pointless phrase - I mean it's not actually good or fast, it took like 30 minutes to come up with "Wenn ein Schmetterling ein Schwein trägt, dann ist es ein Schwein."
 Probably gonna do some work on that.
+
+![4](Screenshot1.png)
+
+It works!!
