@@ -85,7 +85,7 @@ Now we just need a sticker, branding is important they tell me!
 
 ![5](KawaiiAI.png)
 
-Sick - Kawaii SHODAN.
+Kawaii SHODAN.
 ```
 ## Next Steps
 
@@ -101,4 +101,6 @@ Sick - Kawaii SHODAN.
 - [ ] Make kawaiiai queryable using web interface
 
 - [ ] Solar PV sync (trigger inference on excess generation)
+
+- [ ] Take over Citadel Station
 ```
