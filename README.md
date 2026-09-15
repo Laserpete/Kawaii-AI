@@ -100,6 +100,8 @@ Kawaii SHODAN.
 - [ ] RAG Librarian for ISO 9001 or similarly soul-crushing pdf no human should ever be subjected to
 - [ ] Make kawaiiai queryable using web interface
 
+- [ ] Add Stockfish - Make terrifyingly good at chess
+
 - [ ] Solar PV sync (trigger inference on excess generation)
 
 - [ ] Take over Citadel Station
