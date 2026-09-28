@@ -110,4 +110,10 @@ Kawaii SHODAN.
 
 ![6](RAG_Snip.png)
 
-Uh, let's call that RAG proof of concept then.
+Uh, let's call that RAG proof of concept then. Open WebUI is going to a be a lot nicer, I can also run it on another machine, which means I can do the embedding there and the Q900 will survive. Having tried Open WebUI and qwen3.5:4B simultaneously on the Q900, I feel it's worth investigating whether there's any thermal throttling happening. Is this simply me wanting to do metalwork or oil cooling? Yes.
+
+![7](KawaiiAICoreTemps.png)
+
+Thermal throttling is apparently not a problem during inference.
+
+
