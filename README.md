@@ -109,3 +109,5 @@ Kawaii SHODAN.
 28.9.2026 ; Wake on LAN, Ollama on boot working. Now running qwen3.5:4B : thinking problem solved.
 
 ![6](RAG_Snip.png)
+
+Uh, let's call that RAG proof of concept then.
